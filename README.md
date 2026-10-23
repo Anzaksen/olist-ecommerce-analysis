@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇧🇷 Brazilian E-Commerce Data Analysis
+# Brazilian E-Commerce Data Analysis
 
 ### Understanding customer behaviour, delivery performance, retention, and reviews with data
 
